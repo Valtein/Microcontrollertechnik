@@ -1,3 +1,5 @@
-Halo, das ist ein test
-Ich bin Andrea
+Hallo, das ist ein Test.
+Ich bin Andreas.
+Das ist die E3A in Softwareentwicklung.
+
 
